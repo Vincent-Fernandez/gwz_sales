@@ -5,3 +5,5 @@ SELECT
 FROM `le-wagon-420409.course14b.gwz_sales`
 group by 
   date_date
+order by
+    date_date
